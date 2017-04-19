@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Login_and_Search">
+              <span class="suite-name border-passed">Login and Search</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Login_and_Search">
+                    <span>C:\project_idea_ultimate\PHPTravels_Test_Frame\src\main\java\com\phptravel\tests\test\scenario\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Login_and_Search">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Login_and_Search">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Login_and_Search">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Login_and_Search">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Login_and_Search">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Login_and_Search">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">12 methods,   12 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Login_and_Search" class="hide-methods passed suite-Login_and_Search"> (hide)</a> <!-- hide-methods passed suite-Login_and_Search -->
+                      <a href="#" panel-name="suite-Login_and_Search" class="show-methods passed suite-Login_and_Search"> (show)</a> <!-- show-methods passed suite-Login_and_Search -->
+                    </span>
+                    <div class="method-list-content passed suite-Login_and_Search">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(user@phptravels.com, demouser, true, Hi, John Smith)">LoginTest(user@phptravels.com, demouser, true, Hi, John Smith)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(, dqqemouser, false, Invalid Email or Password)">LoginTest(, dqqemouser, false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password)">LoginTest(usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(, , false, Invalid Email or Password)">LoginTest(, , false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(usqqer@phptravels.com, , false, Invalid Email or Password)">LoginTest(usqqer@phptravels.com, , false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(user@phptravels.com, dqqemouser, false, Invalid Email or Password)">LoginTest(user@phptravels.com, dqqemouser, false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(usqqer@phptravels.com, demouser, false, Invalid Email or Password)">LoginTest(usqqer@phptravels.com, demouser, false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(user@phptravels.com, , false, Invalid Email or Password)">LoginTest(user@phptravels.com, , false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.LoginTest" hash-for-method="LoginTest(, demouser, false, Invalid Email or Password)">LoginTest(, demouser, false, Invalid Email or Password)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.SearchTest" hash-for-method="SearchTest(Rome, Italy, true, Rome)">SearchTest(Rome, Italy, true, Rome)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.SearchTest" hash-for-method="SearchTest(qwe, false, No Results!!)">SearchTest(qwe, false, No Results!!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Login_and_Search" title="com.phptravel.tests.SearchTest" hash-for-method="SearchTest(Balearic Islands, Spain, false, No Results!!)">SearchTest(Balearic Islands, Spain, false, No Results!!)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Login_and_Search -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Login_and_Search" class="panel Login_and_Search">
+          <div class="suite-Login_and_Search-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.phptravel.tests.SearchTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(Rome, Italy, true, Rome)">
+                  </a> <!-- SearchTest(Rome, Italy, true, Rome) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(Rome, Italy, true, Rome)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(qwe, false, No Results!!)">
+                  </a> <!-- SearchTest(qwe, false, No Results!!) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(qwe, false, No Results!!)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="SearchTest(Balearic Islands, Spain, false, No Results!!)">
+                  </a> <!-- SearchTest(Balearic Islands, Spain, false, No Results!!) -->
+                  <span class="method-name">SearchTest</span>
+                  <span class="parameters">(Balearic Islands, Spain, false, No Results!!)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Login_and_Search-class-passed -->
+          <div class="suite-Login_and_Search-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.phptravel.tests.LoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(user@phptravels.com, demouser, true, Hi, John Smith)">
+                  </a> <!-- LoginTest(user@phptravels.com, demouser, true, Hi, John Smith) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(user@phptravels.com, demouser, true, Hi, John Smith)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(, dqqemouser, false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(, dqqemouser, false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(, dqqemouser, false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(, , false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(, , false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(, , false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(usqqer@phptravels.com, , false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(usqqer@phptravels.com, , false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(usqqer@phptravels.com, , false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(user@phptravels.com, dqqemouser, false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(user@phptravels.com, dqqemouser, false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(user@phptravels.com, dqqemouser, false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(usqqer@phptravels.com, demouser, false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(usqqer@phptravels.com, demouser, false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(usqqer@phptravels.com, demouser, false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(user@phptravels.com, , false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(user@phptravels.com, , false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(user@phptravels.com, , false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest(, demouser, false, Invalid Email or Password)">
+                  </a> <!-- LoginTest(, demouser, false, Invalid Email or Password) -->
+                  <span class="method-name">LoginTest</span>
+                  <span class="parameters">(, demouser, false, Invalid Email or Password)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Login_and_Search-class-passed -->
+        </div> <!-- panel Login_and_Search -->
+        <div panel-name="test-xml-Login_and_Search" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\project_idea_ultimate\PHPTravels_Test_Frame\src\main\java\com\phptravel\tests\test\scenario\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite verbose=&quot;2&quot; name=&quot;Login and Search&quot;&gt;
+  &lt;test name=&quot;Login and Search&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.phptravel.tests.SearchTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;SearchTest&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.phptravel.tests.SearchTest --&gt;
+      &lt;class name=&quot;com.phptravel.tests.LoginTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;LoginTest&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- com.phptravel.tests.LoginTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Login and Search --&gt;
+&lt;/suite&gt; &lt;!-- Login and Search --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Login_and_Search" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Login and Search</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Login and Search (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Login_and_Search" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Login and Search</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Login_and_Search" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Login and Search</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Login_and_Search');
+function tableData_Login_and_Search() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(12);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'SearchTest')
+data.setCell(0, 2, 'com.phptravel.tests.SearchTest')
+data.setCell(0, 3, 23079);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'SearchTest')
+data.setCell(1, 2, 'com.phptravel.tests.SearchTest')
+data.setCell(1, 3, 21540);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'SearchTest')
+data.setCell(2, 2, 'com.phptravel.tests.SearchTest')
+data.setCell(2, 3, 20749);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'LoginTest')
+data.setCell(3, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(3, 3, 6471);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'LoginTest')
+data.setCell(4, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(4, 3, 4848);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'LoginTest')
+data.setCell(5, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(5, 3, 4307);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'LoginTest')
+data.setCell(6, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(6, 3, 4301);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'LoginTest')
+data.setCell(7, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(7, 3, 4286);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'LoginTest')
+data.setCell(8, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(8, 3, 4226);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'LoginTest')
+data.setCell(9, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(9, 3, 4096);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'LoginTest')
+data.setCell(10, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(10, 3, 4037);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'LoginTest')
+data.setCell(11, 2, 'com.phptravel.tests.LoginTest')
+data.setCell(11, 3, 4032);
+window.suiteTableData['Login_and_Search']= { tableData: data, tableDiv: 'times-div-Login_and_Search'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Login_and_Search">
+              </div> <!-- times-div-Login_and_Search -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Login_and_Search" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Login and Search</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(user@phptravels.com, demouser, true, Hi, John Smith)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(, dqqemouser, false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(, , false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(usqqer@phptravels.com, , false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(user@phptravels.com, dqqemouser, false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(usqqer@phptravels.com, demouser, false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(Rome, Italy, true, Rome)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(qwe, false, No Results!!)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">SearchTest(Balearic Islands, Spain, false, No Results!!)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(user@phptravels.com, , false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">LoginTest(, demouser, false, Invalid Email or Password)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Done</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Login_and_Search" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Login_and_Search" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.phptravel.tests.SearchTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(Rome, Italy, true, Rome)</span>
+                <span class="method-start">4607 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">27686 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">29523 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(qwe, false, No Results!!)</span>
+                <span class="method-start">33003 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">54543 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">56125 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">SearchTest(Balearic Islands, Spain, false, No Results!!)</span>
+                <span class="method-start">59625 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">80374 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.phptravel.tests.LoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">82049 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(user@phptravels.com, demouser, true, Hi, John Smith)</span>
+                <span class="method-start">85599 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">92070 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">93671 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password)</span>
+                <span class="method-start">97136 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">101444 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">103081 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(usqqer@phptravels.com, demouser, false, Invalid Email or Password)</span>
+                <span class="method-start">106521 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">110748 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">112335 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(user@phptravels.com, dqqemouser, false, Invalid Email or Password)</span>
+                <span class="method-start">115803 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">120105 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">121743 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(, , false, Invalid Email or Password)</span>
+                <span class="method-start">125270 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">130118 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">131802 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(, demouser, false, Invalid Email or Password)</span>
+                <span class="method-start">135403 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">139441 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">141008 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(user@phptravels.com, , false, Invalid Email or Password)</span>
+                <span class="method-start">144745 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">148842 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">150344 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(, dqqemouser, false, Invalid Email or Password)</span>
+                <span class="method-start">153818 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">157850 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">init</span>
+                <span class="method-start">159417 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest(usqqer@phptravels.com, , false, Invalid Email or Password)</span>
+                <span class="method-start">162931 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">clean</span>
+                <span class="method-start">167218 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

@@ -1,0 +1,1494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="12" passed="12">
+  <reporter-output>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+    <line>
+      <![CDATA[test.timeout - 30]]>
+    </line>
+    <line>
+      <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+    </line>
+    <line>
+      <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+    </line>
+    <line>
+      <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+    </line>
+    <line>
+      <![CDATA[test.pointy - 0]]>
+    </line>
+    <line>
+      <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+    </line>
+    <line>
+      <![CDATA[test.pointx - 0]]>
+    </line>
+    <line>
+      <![CDATA[test.jstimeout - 10]]>
+    </line>
+    <line>
+      <![CDATA[test.browser - Firefox]]>
+    </line>
+    <line>
+      <![CDATA[test.width - 800]]>
+    </line>
+    <line>
+      <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+    </line>
+    <line>
+      <![CDATA[test.height - 600]]>
+    </line>
+    <line>
+      <![CDATA[test.base_url - http://www.phptravels.net/]]>
+    </line>
+    <line>
+      <![CDATA[Done]]>
+    </line>
+  </reporter-output>
+  <suite name="Login and Search" duration-ms="169096" started-at="2017-04-18T13:43:33Z" finished-at="2017-04-18T13:46:23Z">
+    <groups>
+    </groups>
+    <test name="Login and Search" duration-ms="169096" started-at="2017-04-18T13:43:33Z" finished-at="2017-04-18T13:46:23Z">
+      <class name="com.phptravel.tests.SearchTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="init" is-config="true" duration-ms="4607" started-at="2017-04-18T16:43:34Z" finished-at="2017-04-18T16:43:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="SearchTest" duration-ms="23079" started-at="2017-04-18T16:43:38Z" data-provider="search_prov" finished-at="2017-04-18T16:44:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rome, Italy]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Rome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="clean" is-config="true" duration-ms="1836" started-at="2017-04-18T16:44:01Z" finished-at="2017-04-18T16:44:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="init" is-config="true" duration-ms="3480" started-at="2017-04-18T16:44:03Z" finished-at="2017-04-18T16:44:07Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="SearchTest" duration-ms="21540" started-at="2017-04-18T16:44:07Z" data-provider="search_prov" finished-at="2017-04-18T16:44:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qwe]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No Results!!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="clean" is-config="true" duration-ms="1581" started-at="2017-04-18T16:44:28Z" finished-at="2017-04-18T16:44:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="init" is-config="true" duration-ms="3500" started-at="2017-04-18T16:44:30Z" finished-at="2017-04-18T16:44:33Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="SearchTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="SearchTest" duration-ms="20749" started-at="2017-04-18T16:44:33Z" data-provider="search_prov" finished-at="2017-04-18T16:44:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Balearic Islands, Spain]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No Results!!]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- SearchTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.SearchTest@c818063]" name="clean" is-config="true" duration-ms="1543" started-at="2017-04-18T16:44:54Z" finished-at="2017-04-18T16:44:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.phptravel.tests.SearchTest -->
+      <class name="com.phptravel.tests.LoginTest">
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3549" started-at="2017-04-18T16:44:56Z" finished-at="2017-04-18T16:44:59Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="6471" started-at="2017-04-18T16:44:59Z" data-provider="cred_prov" finished-at="2017-04-18T16:45:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demouser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Hi, John Smith]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1601" started-at="2017-04-18T16:45:06Z" finished-at="2017-04-18T16:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3465" started-at="2017-04-18T16:45:07Z" finished-at="2017-04-18T16:45:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4307" started-at="2017-04-18T16:45:11Z" data-provider="cred_prov" finished-at="2017-04-18T16:45:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[usqqer@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dqqemouser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1636" started-at="2017-04-18T16:45:15Z" finished-at="2017-04-18T16:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3440" started-at="2017-04-18T16:45:17Z" finished-at="2017-04-18T16:45:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4226" started-at="2017-04-18T16:45:20Z" data-provider="cred_prov" finished-at="2017-04-18T16:45:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[usqqer@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demouser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1587" started-at="2017-04-18T16:45:24Z" finished-at="2017-04-18T16:45:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3468" started-at="2017-04-18T16:45:26Z" finished-at="2017-04-18T16:45:30Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4301" started-at="2017-04-18T16:45:30Z" data-provider="cred_prov" finished-at="2017-04-18T16:45:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dqqemouser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1638" started-at="2017-04-18T16:45:34Z" finished-at="2017-04-18T16:45:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3527" started-at="2017-04-18T16:45:35Z" finished-at="2017-04-18T16:45:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4848" started-at="2017-04-18T16:45:39Z" data-provider="cred_prov" finished-at="2017-04-18T16:45:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1684" started-at="2017-04-18T16:45:44Z" finished-at="2017-04-18T16:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3601" started-at="2017-04-18T16:45:46Z" finished-at="2017-04-18T16:45:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4037" started-at="2017-04-18T16:45:49Z" data-provider="cred_prov" finished-at="2017-04-18T16:45:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[demouser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1567" started-at="2017-04-18T16:45:53Z" finished-at="2017-04-18T16:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3737" started-at="2017-04-18T16:45:55Z" finished-at="2017-04-18T16:45:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4096" started-at="2017-04-18T16:45:58Z" data-provider="cred_prov" finished-at="2017-04-18T16:46:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1502" started-at="2017-04-18T16:46:03Z" finished-at="2017-04-18T16:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3474" started-at="2017-04-18T16:46:04Z" finished-at="2017-04-18T16:46:08Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4032" started-at="2017-04-18T16:46:08Z" data-provider="cred_prov" finished-at="2017-04-18T16:46:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dqqemouser]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1567" started-at="2017-04-18T16:46:12Z" finished-at="2017-04-18T16:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+        <test-method status="PASS" signature="init()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="init" is-config="true" duration-ms="3513" started-at="2017-04-18T16:46:13Z" finished-at="2017-04-18T16:46:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[test.timeout - 30]]>
+            </line>
+            <line>
+              <![CDATA[test.login_url - http://www.phptravels.net/login]]>
+            </line>
+            <line>
+              <![CDATA[test.cred_data - C:\Users\UX303L\Dropbox\programming\my project\my_project_phptravel.xls]]>
+            </line>
+            <line>
+              <![CDATA[test.account_url - http://www.phptravels.net/account/]]>
+            </line>
+            <line>
+              <![CDATA[test.pointy - 0]]>
+            </line>
+            <line>
+              <![CDATA[webdriver.gecko.driver - C:\project_idea_ultimate\PHPTravels_Test_Frame\geckodriver.exe]]>
+            </line>
+            <line>
+              <![CDATA[test.pointx - 0]]>
+            </line>
+            <line>
+              <![CDATA[test.jstimeout - 10]]>
+            </line>
+            <line>
+              <![CDATA[test.browser - Firefox]]>
+            </line>
+            <line>
+              <![CDATA[test.width - 800]]>
+            </line>
+            <line>
+              <![CDATA[test.hotels_url - http://www.phptravels.net/properties/]]>
+            </line>
+            <line>
+              <![CDATA[test.height - 600]]>
+            </line>
+            <line>
+              <![CDATA[test.base_url - http://www.phptravels.net/]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="LoginTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="LoginTest" duration-ms="4286" started-at="2017-04-18T16:46:17Z" data-provider="cred_prov" finished-at="2017-04-18T16:46:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[usqqer@phptravels.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[false]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Invalid Email or Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Done]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="clean()[pri:0, instance:com.phptravel.tests.LoginTest@2d209079]" name="clean" is-config="true" duration-ms="1631" started-at="2017-04-18T16:46:21Z" finished-at="2017-04-18T16:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clean -->
+      </class> <!-- com.phptravel.tests.LoginTest -->
+    </test> <!-- Login and Search -->
+  </suite> <!-- Login and Search -->
+</testng-results>

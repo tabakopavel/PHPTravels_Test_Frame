@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="Failed suite [Login and Search]">
+  <test name="Login and Search(failed)">
+    <classes>
+      <class name="com.phptravel.tests.SearchTest">
+        <methods>
+          <include name="init"/>
+          <include name="clean"/>
+          <include name="SearchTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.phptravel.tests.SearchTest -->
+      <class name="com.phptravel.tests.LoginTest">
+        <methods>
+          <include name="init"/>
+          <include name="clean"/>
+        </methods>
+      </class> <!-- com.phptravel.tests.LoginTest -->
+    </classes>
+  </test> <!-- Login and Search(failed) -->
+</suite> <!-- Failed suite [Login and Search] -->

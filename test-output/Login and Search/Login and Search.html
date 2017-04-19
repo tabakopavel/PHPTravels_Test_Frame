@@ -1,0 +1,223 @@
+<html>
+<head>
+<title>TestNG:  Login and Search</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Login and Search</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>12/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Apr 18 16:43:33 MSK 2017</td>
+</tr>
+<tr><td>Total time:</td><td>169 seconds (169096 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: user@phptravels.com, demouser, true, Hi, John Smith<br/>
+<a href="#Output-85748029" onClick='toggleBox("Output-85748029", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-85748029" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-85748029">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: usqqer@phptravels.com, dqqemouser, false, Invalid Email or Password<br/>
+<a href="#Output-1151704483" onClick='toggleBox("Output-1151704483", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1151704483" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1151704483">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: usqqer@phptravels.com, demouser, false, Invalid Email or Password<br/>
+<a href="#Output-1703696921" onClick='toggleBox("Output-1703696921", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1703696921" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1703696921">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: user@phptravels.com, dqqemouser, false, Invalid Email or Password<br/>
+<a href="#Output-1815556070" onClick='toggleBox("Output-1815556070", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1815556070" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1815556070">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: , , false, Invalid Email or Password<br/>
+<a href="#Output-297490204" onClick='toggleBox("Output-297490204", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-297490204" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-297490204">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: , demouser, false, Invalid Email or Password<br/>
+<a href="#Output-62343880" onClick='toggleBox("Output-62343880", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-62343880" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-62343880">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: user@phptravels.com, , false, Invalid Email or Password<br/>
+<a href="#Output-1661210650" onClick='toggleBox("Output-1661210650", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1661210650" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1661210650">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: , dqqemouser, false, Invalid Email or Password<br/>
+<a href="#Output-1789268516" onClick='toggleBox("Output-1789268516", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1789268516" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1789268516">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.LoginTest.LoginTest()'><b>LoginTest</b><br>Test class: com.phptravel.tests.LoginTest<br>Parameters: usqqer@phptravels.com, , false, Invalid Email or Password<br/>
+<a href="#Output-753321708" onClick='toggleBox("Output-753321708", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-753321708" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-753321708">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.phptravel.tests.LoginTest@2d209079</td></tr>
+<tr>
+<td title='com.phptravel.tests.SearchTest.SearchTest()'><b>SearchTest</b><br>Test class: com.phptravel.tests.SearchTest<br>Parameters: Rome, Italy, true, Rome<br/>
+<a href="#Output-33533830" onClick='toggleBox("Output-33533830", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-33533830" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-33533830">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>23</td>
+<td>com.phptravel.tests.SearchTest@c818063</td></tr>
+<tr>
+<td title='com.phptravel.tests.SearchTest.SearchTest()'><b>SearchTest</b><br>Test class: com.phptravel.tests.SearchTest<br>Parameters: qwe, false, No Results!!<br/>
+<a href="#Output-412111214" onClick='toggleBox("Output-412111214", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-412111214" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-412111214">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>21</td>
+<td>com.phptravel.tests.SearchTest@c818063</td></tr>
+<tr>
+<td title='com.phptravel.tests.SearchTest.SearchTest()'><b>SearchTest</b><br>Test class: com.phptravel.tests.SearchTest<br>Parameters: Balearic Islands, Spain, false, No Results!!<br/>
+<a href="#Output-1230955136" onClick='toggleBox("Output-1230955136", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1230955136" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1230955136">
+Done<br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.phptravel.tests.SearchTest@c818063</td></tr>
+</table><p>
+</body>
+</html>

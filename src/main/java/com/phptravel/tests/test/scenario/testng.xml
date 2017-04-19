@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="2" name="Login and Search">
+    <test name="Login and Search">
+        <classes>
+            <class name="com.phptravel.tests.SearchTest">
+                <methods>
+                    <include name="SearchTest"/>
+                </methods>
+            </class> <!-- com.phptravel.tests.SearchTest -->
+            <class name="com.phptravel.tests.LoginTest">
+                <methods>
+                    <include name="LoginTest"/>
+                </methods>
+            </class> <!-- com.phptravel.tests.LoginTest -->
+        </classes>
+    </test> <!-- PHPTravels_Test_Frame -->
+</suite> <!-- Default Suite -->
